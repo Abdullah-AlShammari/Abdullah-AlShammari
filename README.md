@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-alshammari&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-alshammari" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Accounts :</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/_general" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_general" height="30" width="40" /></a>
 </p>
